@@ -1,6 +1,14 @@
 # Kanban
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2.
+## Tech Stack: Angular
+
+This is a Kanban app for your project which has a drag-and-drop functionality.
+
+Have a look at https://www.linkedin.com/in/pranav-tripathi2510/ for more.
+
+![home-page](https://github.com/codiac1/KanbanBoard/assets/88943739/ae58eac8-d0ef-4e10-8b04-2cf3013624c9)
+
+![image](https://github.com/codiac1/KanbanBoard/assets/88943739/21957d61-9211-472c-b7ee-bff51cb6d966)
 
 ## Development server
 
